@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saimon Kabir Chowdhury</h1>
 <h3 align="center">A dedicated Android Developer from Bangladesh</h3>
+<img src="https://cdn.dribbble.com/users/972288/screenshots/2675395/media/ffd152872f8ed6c10a52b720445e7547.gif" width=400 alt="Image description">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimonkabirchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="saimonkabirchowdhury" /> </p>
 
